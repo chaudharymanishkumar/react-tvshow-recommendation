@@ -1,0 +1,24 @@
+.recommend {
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.searchbarFormInput {
+  width: 100%;
+  padding: 10px 17px;
+  border: 1px solid #171717;
+  background: #f4f4f4;
+  color: #171717;
+  font-size: 20px;
+  outline-width: 0ch;
+}
+
+.searchbar__form__input:focus {
+  border: 1px solid var(--secandry-color);
+  box-shadow: 0 0 1px rgba(60, 148, 139, 0.5);
+}
+
+.showList {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}

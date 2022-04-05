@@ -1,0 +1,10 @@
+.showInfo {
+  margin: 15px;
+}
+.url {
+  text-decoration: none;
+}
+.url:hover {
+  text-decoration: underline #38015c;
+  color: #38015c;
+}
