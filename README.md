@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Application is deployed on firebase, you can access it using
+## Application is deployed on firebase, you can access it using
 ### `https://tv-show-c70ae.web.app/`
 
 ## Available Scripts
